@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="game@localhost" uuid="a5c8b46f-65d5-407e-95e6-b5e3be696410">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/game</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="server" uuid="8f857123-d667-4ae8-b0d1-fb17762bc6aa">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/game</jdbc-url>
+    </data-source>
+  </component>
+</project>
